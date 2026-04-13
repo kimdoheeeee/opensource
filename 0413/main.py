@@ -1,1 +1,1 @@
-print("Kimdohee1~~!, kimdohee2!!!, kimdohee3, kimdohee4~~!")
+print("Kimdohee1~~!, kimdohee2!!!, kimdohee3!!!, kimdohee4~~!")
