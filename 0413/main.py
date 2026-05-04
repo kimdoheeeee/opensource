@@ -1,2 +1,2 @@
-print("Kimdohee1~~!, kimdohee2!!!, kimdohee3!!!, kimdohee4~~!")
-pirnt("fetch test")
+print("Kimdohee1~~!, kimdohee2!!!, kimdohee3!!!, kimdohee4~~!!1!!!!!")
+
